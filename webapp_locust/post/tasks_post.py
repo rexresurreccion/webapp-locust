@@ -1,0 +1,2 @@
+from webapp_locust.post.tasks_add_post import TasksAddPost
+from webapp_locust.post.tasks_update_post import TasksUpdatePost

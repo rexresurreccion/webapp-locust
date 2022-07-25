@@ -1,0 +1,2 @@
+from webapp_locust.author.tasks_add_author import TasksAddAuthor
+from webapp_locust.author.tasks_update_author import TasksUpdateAuthor

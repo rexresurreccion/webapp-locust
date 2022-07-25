@@ -1,0 +1,6 @@
+#!/bin/bash
+
+WEBAPP_LOCUST_PYTHON_FILE=$1
+
+
+PYTHONPATH=$PYTHONPATH:webapp_locust python3 "$WEBAPP_LOCUST_PYTHON_FILE"
